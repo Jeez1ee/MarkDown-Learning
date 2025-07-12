@@ -124,7 +124,12 @@ a &= b + c \\
 \end{aligned}
 $$
 ```
-
+$$
+\begin{aligned}
+a &= b + c \\
+  &= d + e
+\end{aligned}
+$$
 ---
 
 ## 13. ✅ 逻辑符号
